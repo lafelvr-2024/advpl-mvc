@@ -1,0 +1,70 @@
+{
+	"version": "0.2.2",
+	"includes": [
+		"D:\\TOTVS\\P12012410\\protheus\\include"
+	],
+	"permissions": {
+		"authorizationtoken": ""
+	},
+	"connectedServer": {
+		"id": "21bzk4mck1lmdgk3ea5qjh0d61j1k",
+		"type": "totvs_server_protheus",
+		"name": "Localhost - Compilador",
+		"port": 7010,
+		"address": "127.0.0.1",
+		"buildVersion": "7.00.240223P",
+		"secure": false,
+		"includes": [
+			"D:\\TOTVS\\P12012410\\protheus\\include"
+		],
+		"environments": [
+			"P12012410"
+		],
+		"username": "admin",
+		"environment": "P12012410",
+		"token": "djM6MjFiems0bWNrMWxtZGdrM2VhNXFqaDBkNjFqMWs6MToxMjcuMC4wLjE6NzAxMDowOjcuMDAuMjQwMjIzUDoz:djE6UDEyMDEyNDEwOmFkbWluOnpaci9JRVNYTXZJRUthVUF5OVpab0xDVDMwaS96UWhISCt5MUFSS25KM0E9|djI6MTc1MzMxNzE2NDowOjE6MQ==.q4vgkDekA9r+tXKg0JyOGYNC0Pg9UnJtLQwk5iB+bmtD4w5ZPuC/luzxQAWbxfxWBIiJxDc+0ltmq1fZZOmAuRRIOyLaQNwkbFmZm/LR4z0pfvQhbm/putv/ZP48TFJtmHrapRM6p16lPELPQqtWePIik9lyvWkVDLBrQ9eBT74GWsDiWuhJM8b8TCzBndLj//Sginod9qqTNjxe4AEgPQNcox0Li5sD63+ghXN6xu7Mu2LG2LlpraEw/bB5j/7Y76rNuJ6Hm6oa4T/pON4rs82McByMcy0J0HHR1TqT1R0D2MY1fpuSJu5zMK0+lEiwA30z7PRFg5bsPn/Xev1kOw==",
+		"informations": {
+			"permissions": [],
+			"errorMessage": "",
+			"environmentDetectedType": "totvs_server_protheus",
+			"serverDetectedType": "totvs_server_protheus"
+		}
+	},
+	"configurations": [
+		{
+			"id": "21bzk4mck1lmdgk3ea5qjh0d61j1k",
+			"type": "totvs_server_protheus",
+			"name": "Localhost - Compilador",
+			"port": 7010,
+			"address": "127.0.0.1",
+			"buildVersion": "7.00.240223P",
+			"secure": false,
+			"includes": [
+				"D:\\TOTVS\\P12012410\\protheus\\include"
+			],
+			"environments": [
+				"P12012410"
+			],
+			"username": "admin",
+			"environment": "P12012410",
+			"token": "djM6MjFiems0bWNrMWxtZGdrM2VhNXFqaDBkNjFqMWs6MToxMjcuMC4wLjE6NzAxMDowOjcuMDAuMjQwMjIzUDoz:djE6UDEyMDEyNDEwOmFkbWluOnpaci9JRVNYTXZJRUthVUF5OVpab0xDVDMwaS96UWhISCt5MUFSS25KM0E9|djI6MTc1MzMxNzE2NDowOjE6MQ==.q4vgkDekA9r+tXKg0JyOGYNC0Pg9UnJtLQwk5iB+bmtD4w5ZPuC/luzxQAWbxfxWBIiJxDc+0ltmq1fZZOmAuRRIOyLaQNwkbFmZm/LR4z0pfvQhbm/putv/ZP48TFJtmHrapRM6p16lPELPQqtWePIik9lyvWkVDLBrQ9eBT74GWsDiWuhJM8b8TCzBndLj//Sginod9qqTNjxe4AEgPQNcox0Li5sD63+ghXN6xu7Mu2LG2LlpraEw/bB5j/7Y76rNuJ6Hm6oa4T/pON4rs82McByMcy0J0HHR1TqT1R0D2MY1fpuSJu5zMK0+lEiwA30z7PRFg5bsPn/Xev1kOw==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			},
+			"patchGenerateDir": "c:\\Users\\luiza\\OneDrive\\Documentos\\GitHub\\advpl-mvc\\.vscode\\resources\\patch"
+		}
+	],
+	"savedTokens": [
+		[
+			"21bzk4mck1lmdgk3ea5qjh0d61j1k:P12012410",
+			{
+				"id": "21bzk4mck1lmdgk3ea5qjh0d61j1k",
+				"token": "djM6MjFiems0bWNrMWxtZGdrM2VhNXFqaDBkNjFqMWs6MToxMjcuMC4wLjE6NzAxMDowOjcuMDAuMjQwMjIzUDoz:djE6UDEyMDEyNDEwOmFkbWluOnpaci9JRVNYTXZJRUthVUF5OVpab0xDVDMwaS96UWhISCt5MUFSS25KM0E9|djI6MTc1MzMxNzE2NDowOjE6MQ==.q4vgkDekA9r+tXKg0JyOGYNC0Pg9UnJtLQwk5iB+bmtD4w5ZPuC/luzxQAWbxfxWBIiJxDc+0ltmq1fZZOmAuRRIOyLaQNwkbFmZm/LR4z0pfvQhbm/putv/ZP48TFJtmHrapRM6p16lPELPQqtWePIik9lyvWkVDLBrQ9eBT74GWsDiWuhJM8b8TCzBndLj//Sginod9qqTNjxe4AEgPQNcox0Li5sD63+ghXN6xu7Mu2LG2LlpraEw/bB5j/7Y76rNuJ6Hm6oa4T/pON4rs82McByMcy0J0HHR1TqT1R0D2MY1fpuSJu5zMK0+lEiwA30z7PRFg5bsPn/Xev1kOw=="
+			}
+		]
+	],
+	"lastConnectedServer": "21bzk4mck1lmdgk3ea5qjh0d61j1k"
+}
